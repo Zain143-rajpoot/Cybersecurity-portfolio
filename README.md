@@ -5,9 +5,9 @@ Welcome! This respository showcases my coursework, labs, and projects completed 
 Aspiring cybersecurity professional with hands-on experience in security fundamentals, risk mangement, and network security, gained through a hands-on certificate program.
 
 ## contents
-"Labs/"- Hand-on lab exercises and walkthroughs
-"Screeenshots/"- Proof of completed course activites
-"Notes/"- Summaries of key concepts learnrd
+**Labs/** - Hand-on lab exercises and walkthroughs
+**Screeenshots/** - Proof of completed course activites
+**Notes/** - Summaries of key concepts learnrd
 
 ## Skills Demonstrated
 - Understanding core cybesecurity concepts and terminology
